@@ -1,8 +1,8 @@
 # Frontend Mentor - Clock app
 
-![Design preview for the Clock app coding challenge](./assets/preview.jpg)
+![Design preview for the Clock app coding challenge](./src/assets/preview.jpg)
 
-Frontendmentor.io submission page: https://www.frontendmentor.io/solutions/clock-app-npTvDit9h
+<!-- Frontendmentor.io submission page: https://www.frontendmentor.io/solutions/clock-app-npTvDit9h -->
 
 ## The challenge
 
@@ -10,7 +10,7 @@ The challenge is to build out this clock application and get it looking as close
 
 - [World Time API](http://worldtimeapi.org/) to set the time based on the visitor's IP adress. This API will also be used for additional data, like the day of the year shown in the expanded state.
 - [IP Geolocation API](https://freegeoip.app/) to set the city and country underneath the time
-- [Quotes API](https://programming-quotesapi.vercel.app/) to generate random programming quotes.
+- [Quotes API](https://random-quotes-freeapi.vercel.app/api/quotes) to generate random programming quotes.
 
 ## User stories
 
@@ -41,4 +41,4 @@ Users should be able to:
 
 ## Technologies I used
 
-- APIs, Axios, SCSS, BEM, Figma for the design files
+- ReactJS, Vite, APIs, Axios, SCSS, BEM, Figma for the design files
